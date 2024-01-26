@@ -1,0 +1,88 @@
+.hero {
+  margin-left: 50px;
+  background-image: url(../images/plan/desktop/image-hero-blackcup.jpg);
+  background-repeat: no-repeat;
+  width: 1280px;
+  height: 450px;
+}
+.hero__full {
+  padding-top: 55px;
+  padding-left: 25px;
+  margin-bottom: 155px;
+}
+.hero__title {
+  color: var(--light-cream);
+  font-family: var(--heading-font-family);
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 72px; /* 100% */
+}
+.hero__text {
+  color: var(--light-cream);
+  font-family: var(--main-font-family);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.8;
+  width: 445px;
+}
+
+.edid {
+  color: var(--grey);
+  font-family: var(--heading-font-familys);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 32px; /* 133.333% */
+  margin-bottom: 80px;
+  margin-bottom: 50px;
+}
+
+.coll {
+}
+
+.coll__img {
+  margin-bottom: 38px;
+}
+
+.coll__text {
+  color: var(--light-cream);
+  font-family: var(--heading-font-family);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 36px; /* 112.5% */
+  width: 255px;
+  margin-bottom: 42px;
+}
+.coll__description {
+  color: var(--light-cream);
+  font-family: var(--main-font-family);
+  font-size: 16px;
+  width: 285px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  margin-bottom: 79px;
+}
+
+.any {
+  display: flex;
+  gap: 95px;
+  padding-left: 85px;
+}
+
+.end__ob {
+  width: 1280px;
+  height: 653px;
+  flex-shrink: 0;
+  padding-top: 100px;
+  margin-bottom: 80px;
+  background-color: var(--dark-grey-blue);
+}
+
+.rings {
+  margin-left: 85px;
+}
